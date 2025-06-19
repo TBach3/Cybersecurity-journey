@@ -23,7 +23,10 @@
 
 ## 🛠️ Tools / Commands Used
 List any tools or commands you learned or practiced with:
+
 ```bash
 ping google.com
 tracert 8.8.8.8
-ipconfig / ifconfig
+ipconfig
+ifconfig
+
