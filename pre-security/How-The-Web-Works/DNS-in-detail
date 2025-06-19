@@ -1,31 +1,22 @@
-# 🛡️ [Room Name] – TryHackMe Notes
+# 🛡️ DNS in detail – TryHackMe Notes
 
-**📅 Date Completed:** [Month Day, Year]  
+**📅 Date Completed:** June 19,2025  
 **🔗 TryHackMe Profile:** https://tryhackme.com/p/Tbach  
-**💼 Path/Module:** [Pre-Security | Complete Beginner | Junior Penetration Tester | etc.]
+**💼 Path/Module:** Pre-security
 
----
+--
 
 ## 📚 Room Summary
-> A brief 1–2 sentence summary of what this room covered.
-
+This room explained what DNS(Domain Name System) means and how it works. It covers what happens when you make a DNS request, the five common DNS record types (A, AAAA, CNAME, MX, TXT)
+and domain heiarchy including top-level domain (TLD), second-level domain, and the subdomain.
+The pratical part consisted of making request for DNS quarrys on a external website to see the results of different request
 ---
 
 ## 🧠 Key Concepts Learned
-- Bullet point the main ideas
-- Keep it short and in your own words
-- Examples:
-  - Difference between TCP and UDP
-  - How DNS resolves a domain
-  - Using `ping`, `tracert`, `nslookup`
+- How DNS works and operates
+- Made DNS request on a website
 
 ---
 
 ## 🛠️ Tools / Commands Used
-List any tools or commands you learned or practiced with:
-
-```bash
-ping google.com
-tracert 8.8.8.8
-ipconfig
-ifconfig
+- nslookup
