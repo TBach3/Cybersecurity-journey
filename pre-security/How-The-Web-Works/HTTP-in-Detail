@@ -1,1 +1,29 @@
+# 🛡️ HTTP in Detail – TryHackMe Notes
+
+**📅 Date Completed:** [Month Day, Year]  
+**🔗 TryHackMe Profile:** https://tryhackme.com/p/Tbach  
+**💼 Path/Module:** Pre-security
+
+---
+
+## 📚 Room Summary
+> A brief 1–2 sentence summary of what this room covered.
+
+---
+
+## 🧠 Key Concepts Learned
+- What HTTP and HTTPS mean
+- Explained what a URL is and all its feature
+- How URL request work and the whole process of the request
+
+---
+
+## 🛠️ Tools / Commands Used
+List any tools or commands you learned or practiced with:
+
+```bash
+ping google.com
+tracert 8.8.8.8
+ipconfig
+ifconfig
 
