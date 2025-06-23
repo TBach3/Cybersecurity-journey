@@ -1,31 +1,30 @@
-# 🛡️ [Room Name] – TryHackMe Notes
+# 🛡️ How Websites Work – TryHackMe Notes
 
-**📅 Date Completed:** [Month Day, Year]  
+**📅 Date Completed:** June 23, 2025  
 **🔗 TryHackMe Profile:** https://tryhackme.com/p/Tbach  
-**💼 Path/Module:** [Pre-Security | Complete Beginner | Junior Penetration Tester | etc.]
+**💼 Path/Module:** Pre-security
 
 ---
 
 ## 📚 Room Summary
-> A brief 1–2 sentence summary of what this room covered.
+  This room explained how a website is built using HTML and JavaScript, and what each language does for the website.
+How the Front end the browser makes a request to the website and back end means the server processes you request and returns a response.
+For the pratical part of this room the user went to a external website and made edits to both HTML and Javascript, had a lab that show the danger
+of sensative data being forgotten about and show the user how to do a HTML injection yourself.
 
 ---
 
 ## 🧠 Key Concepts Learned
-- Bullet point the main ideas
-- Keep it short and in your own words
-- Examples:
-  - Difference between TCP and UDP
-  - How DNS resolves a domain
-  - Using `ping`, `tracert`, `nslookup`
+- How HTML (HyperText Markup Language) is the language to create website structure and content
+- JavaScript is the language that builds the website functionality
+- The differnce between Front end and Back end
+- How sensative data exposure can lead to attacks
+- Explains how a attacker can use a HTML injection on sensative data exposure
 
 ---
 
 ## 🛠️ Tools / Commands Used
-List any tools or commands you learned or practiced with:
-
-```bash
-ping google.com
-tracert 8.8.8.8
-ipconfig
-ifconfig
+- HTML editor
+- JavaScript editor
+- Sensitive Data exposer
+- HTML injections
