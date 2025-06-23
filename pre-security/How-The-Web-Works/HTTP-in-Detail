@@ -1,29 +1,28 @@
 # 🛡️ HTTP in Detail – TryHackMe Notes
 
-**📅 Date Completed:** [Month Day, Year]  
+**📅 Date Completed:** June 23, 2025  
 **🔗 TryHackMe Profile:** https://tryhackme.com/p/Tbach  
 **💼 Path/Module:** Pre-security
 
 ---
 
 ## 📚 Room Summary
-> A brief 1–2 sentence summary of what this room covered.
+  This room teaches the user what HTTP and HTTPS is and how they work. It explains what happens when you put in a URL and make a request to visit a website.
+Explains the four common HTTP methods and the most common HTTP status codes. For the pratical part of this room the user has to go to a external website and
+make different HTTP request
 
 ---
 
 ## 🧠 Key Concepts Learned
-- What HTTP and HTTPS mean
-- Explained what a URL is and all its feature
-- How URL request work and the whole process of the request
-
+- HTTP (HyperText Transfer Protocol) is set of rules for communication with web servers for the transmitting of website data
+- HTTPS (HyperText Transfer Protocol Secure) is the secure version of HTTP
+- URL (Uniform Resource Locker) is a way to access a resource on the internet
+- Four common HTTP method (GET, POST, PUT, DELETE)
+- What each common HTTP status code number is and what they mean
 ---
 
 ## 🛠️ Tools / Commands Used
-List any tools or commands you learned or practiced with:
-
-```bash
-ping google.com
-tracert 8.8.8.8
-ipconfig
-ifconfig
+- HTTP and HTTPS
+- Common HTTP status code (200, 201, 301, 302, 400, 401, 403, 404, 405, 500, 503)
+- Made HTTP request
 
