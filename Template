@@ -13,20 +13,9 @@
 
 ## 🧠 Key Concepts Learned
 - Bullet point the main ideas
-- Keep it short and in your own words
-- Examples:
-  - Difference between TCP and UDP
-  - How DNS resolves a domain
-  - Using `ping`, `tracert`, `nslookup`
 
 ---
 
 ## 🛠️ Tools / Commands Used
 List any tools or commands you learned or practiced with:
-
-```bash
-ping google.com
-tracert 8.8.8.8
-ipconfig
-ifconfig
 
