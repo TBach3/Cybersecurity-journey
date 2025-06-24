@@ -1,20 +1,34 @@
-# 🛡️ [Room Name] – TryHackMe Notes
+# 🛡️ Linux Fundamentals Part 1 – TryHackMe Notes
 
-**📅 Date Completed:** [Month Day, Year]  
+**📅 Date Completed:** June 24, 2025 
 **🔗 TryHackMe Profile:** https://tryhackme.com/p/Tbach  
-**💼 Path/Module:** [Pre-Security | Complete Beginner | Junior Penetration Tester | etc.]
+**💼 Path/Module:** Pre-security - How the Web Works
 
 ---
 
 ## 📚 Room Summary
-> A brief 1–2 sentence summary of what this room covered.
+  This room covered the history and diversity of linux. In this room a Ubutu Linux machine was presented to play around with and do some task from
+the questions. The tasked ranged from writing basic code like "echo TryHackMe", changing directories, listing the context of the working directory, 
+displaying the context of a file, searching for files using grep. Also basic shell operations were introduced like &, &&, >, >>.
 
 ---
 
 ## 🧠 Key Concepts Learned
-- Bullet point the main ideas
+- Linux is super diverse
+- echo oputs any text provided
+- Basic linux commands
+    -ls -- listing
+    -cd -- change directory
+    -cat -- concaterate
+    -pwd -- print working directory
+    -grep -- allows user to search for specific values inside a file
+- Basic shell operations
+    -& -- runs command in background of terminal
+    -&& -- combines multiple commands in one line in your terminal
+    -> -- redirector
+    ->> -- adds output of the command to the end of the file
 
 ---
 
 ## 🛠️ Tools / Commands Used
-List any tools or commands you learned or practiced with:
+- Ubutu Linux machine
