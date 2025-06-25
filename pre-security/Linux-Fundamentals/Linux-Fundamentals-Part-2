@@ -1,9 +1,8 @@
-# 🛡️ [Room Name] – TryHackMe Notes
+# 🛡️ Linux Fundamentals Part 2 – TryHackMe Notes
 
 **📅 Date Completed:** [Month Day, Year]  
 **🔗 TryHackMe Profile:** https://tryhackme.com/p/Tbach  
-**💼 Path/Module:** [Pre-Security | Complete Beginner | Junior Penetration Tester | etc.]
-
+**💼 Path/Module:** Pre-security - How the Web Works
 ---
 
 ## 📚 Room Summary
@@ -12,9 +11,11 @@
 ---
 
 ## 🧠 Key Concepts Learned
-- Bullet point the main ideas
+- Secure Shell (SSH) is the means of connecting and interacting with a remote Linux machine
+- 
 
 ---
 
 ## 🛠️ Tools / Commands Used
-List any tools or commands you learned or practiced with:
+- Linux Machine
+
