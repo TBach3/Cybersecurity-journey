@@ -1,21 +1,31 @@
 # 🛡️ Linux Fundamentals Part 2 – TryHackMe Notes
 
-**📅 Date Completed:** [Month Day, Year]  
+**📅 Date Completed:** June 30, 2025 
 **🔗 TryHackMe Profile:** https://tryhackme.com/p/Tbach  
 **💼 Path/Module:** Pre-security - How the Web Works
 ---
 
 ## 📚 Room Summary
-> A brief 1–2 sentence summary of what this room covered.
+  This room explained how to access a Linux machine remotely using SSH. Explained more common commands used in the terminal and provied examples and small task to
+understand how the commands operate and run. Also had a small introduction to file permissions and switching users.
 
 ---
 
 ## 🧠 Key Concepts Learned
 - Secure Shell (SSH) is the means of connecting and interacting with a remote Linux machine
-- 
+-Linux terminal commands learned
+    - touch creates a new file
+    - mkdir creates a new directory
+    - file determines the file type
+    - Permissions, r,w,e (Read, Write, Execute)
+- Common Directories
+    - /etc stores system files for operating system
+    - /var stores data that is written or accessed by services and applications running on the system
+    - /root home for the "root" system user
+    - /tmp temparary stores data that needs to be accessed few times, everything is deleted when machine is turned off
 
 ---
 
 ## 🛠️ Tools / Commands Used
-- Linux Machine
+- Access a Linux Machine using SSH
 
