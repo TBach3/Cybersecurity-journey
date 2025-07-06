@@ -2,7 +2,7 @@
 
 **📅 Date Completed:** [Month Day, Year]  
 **🔗 TryHackMe Profile:** https://tryhackme.com/p/Tbach  
-**💼 Path/Module:** Pre-security - 
+**💼 Path/Module:** Pre-security - Linux Fundamentals
 
 ---
 
@@ -12,7 +12,10 @@
 ---
 
 ## 🧠 Key Concepts Learned
-- Bullet point the main ideas
+- nano is a text-editor command that is used to create or edit files (nano "filename")
+- VIM is a much more advanced text-editor command
+- wget command allows you to download files from the web via HTTP
+- SCP (Secure Copy) allows you to transfer files between two computers securely using SSH
 
 ---
 
