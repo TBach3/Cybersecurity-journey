@@ -1,0 +1,28 @@
+# 🛡️ Inside a Computer System – TryHackMe Notes
+
+**📅 Date Completed:** 3/16/2026  
+**🔗 TryHackMe Profile:** https://tryhackme.com/p/Tbach  
+**💼 Path/Module:** Pre-Security - Inside a Computer System
+
+---
+
+## 📚 Room Summary
+> This room explained everything inside a compute to the CPU, GPU, PSU, RAM, HDD/SSD, and the Motherboard. It also explains the steps the computer takes to power up when the power button is hit
+
+---
+
+## 🧠 Key Concepts Learned
+- CPU is the brains
+- GPU is your display or GUI
+- Motherboard allows connection between componets
+
+---
+
+## 🛠️ Tools / Commands Used
+List any tools or commands you learned or practiced with:
+// The 5 steps to how a computer powers up
+      1) Power button pressed
+      2) Firmware starts
+      3) Power on Self Test (POST)
+      4) Select Boot Device
+      5) Initiate Bootloader
