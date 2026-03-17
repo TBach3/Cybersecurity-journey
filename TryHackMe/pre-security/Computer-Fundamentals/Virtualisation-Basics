@@ -1,1 +1,25 @@
+# 🛡️ Virtualisation Basics – TryHackMe Notes
 
+**📅 Date Completed:** [Month Day, Year]  
+**🔗 TryHackMe Profile:** https://tryhackme.com/p/Tbach  
+**💼 Path/Module:** Pre-Security - Virtualisation Basics
+
+---
+
+## 📚 Room Summary
+> This room explains how virtualization helps optomise computer components to build scalable systems. 
+Hypervisor is the core technology for virtualization, its software that creates and manages virtual machines.
+
+---
+
+## 🧠 Key Concepts Learned
+- Virtualization allows multiple applications to share a physical server
+- Two types of hypervisor 
+      1) Type 1 - runs directly on physical hardware
+      2) Type 2 - runs with a existing operating system
+
+---
+
+## 🛠️ Tools / Commands Used
+List any tools or commands you learned or practiced with:
+-  THM Machine ran a virtualization application to help figure out why a company had no emails coming or going from it's employees
