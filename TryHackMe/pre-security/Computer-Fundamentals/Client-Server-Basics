@@ -1,1 +1,22 @@
+# 🛡️ Client-Server Basics – TryHackMe Notes
 
+**📅 Date Completed:** 3/16/2026
+**🔗 TryHackMe Profile:** https://tryhackme.com/p/Tbach  
+**💼 Path/Module:** Pre-Security - Client-Server Basic
+
+---
+
+## 📚 Room Summary
+> In this room it broke down what happens when a client uses a server to make a request, and also opened a THM machine to explain the GET command and what happens behind the scenes or in the protocol
+
+---
+
+## 🧠 Key Concepts Learned
+- There are 9 core HTTP commands (GET, POST, PUT, DELETE, PATCH, HEAD, OPTIONS, CONNECT, TRACE)
+- Scheme tells what protocol was being used
+
+---
+
+## 🛠️ Tools / Commands Used
+List any tools or commands you learned or practiced with:
+- THM Machine
