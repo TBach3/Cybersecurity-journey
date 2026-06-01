@@ -1,19 +1,22 @@
 # 🛡️ Cloud Computing Fundamentals – TryHackMe Notes
 
-**📅 Date Completed:** [Month Day, Year]  
+**📅 Date Completed:**  6/1/2026 
 **🔗 TryHackMe Profile:** https://tryhackme.com/p/Tbach  
 **💼 Path/Module:** Pre-Security - Cloud Computing Fundamentals
 ---
 
 ## 📚 Room Summary
-> A brief 1–2 sentence summary of what this room covered.
+  Just went over the basic history of cloud computing and how it works and whys so many businesses use ot nowadays. 
+Also TryHackMe made a little cloud computer server so you can practice adding VM and see how differnt ones affect billing.
 
 ---
 
 ## 🧠 Key Concepts Learned
-- Bullet point the main ideas
+- Infrustructure as a Server (IaaS) you have full control over operating system and application
+- Platform as a Server (PaaS) you focus on building and developing application
+- Software as a Server (SaaS) you use a complete application for example Gmail, or Zoom 
 
 ---
 
 ## 🛠️ Tools / Commands Used
-List any tools or commands you learned or practiced with:
+- TryHackMe Cloud Console Site
