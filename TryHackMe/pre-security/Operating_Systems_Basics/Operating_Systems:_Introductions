@@ -7,15 +7,18 @@
 ---
 
 ## 📚 Room Summary
-> 
+> This was the beginning of a new module and it explained what a operating system is and how it works
+and why the are essential for a computer to function. The operating system is like a genral manager at a supermarket
+controling everything so the store runs smoothly and effciently.
 ---
 
 ## 🧠 Key Concepts Learned
-- There are 9 core HTTP commands (GET, POST, PUT, DELETE, PATCH, HEAD, OPTIONS, CONNECT, TRACE)
-- 
+- The operating system corrdinates everything
+- The kernal space has unristricted access to computers hardware
+- The user space is where all the applications run
 
 ---
 
 ## 🛠️ Tools / Commands Used
 List any tools or commands you learned or practiced with:
-- 
+- TryHackMe Virtual Machine 
